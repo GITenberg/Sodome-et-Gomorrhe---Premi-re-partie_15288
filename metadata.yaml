@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/987
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Proust
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15288#Sodome-et-Gomorrhe---Premi-re-partie
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-03-08'
 gutenberg_type: Text
